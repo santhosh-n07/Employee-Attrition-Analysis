@@ -77,7 +77,7 @@ The dataset contains various employee details such as:
 ## 📸 Screenshots
 
 ### Model Results
-![Model Results](Results.png)
+![Model Results](Result.png)
 
 ### EDA Plots
 ![EDA Plots](eda_plot.png)
@@ -88,6 +88,7 @@ The dataset contains various employee details such as:
 Install the dependencies before running the notebook:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+
 
 
 
